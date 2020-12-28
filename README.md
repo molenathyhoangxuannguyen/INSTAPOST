@@ -32,14 +32,13 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
+<!-- ## Video Walkthrough  -->
 
-Here's a walkthrough of implemented user stories:
+<!-- Here's a walkthrough of implemented user stories:  -->
 
-![](https://github.com/hmanalai/Instapost/blob/master/appDemo2.gif)
+<!-- ![](https://github.com/hmanalai/Instapost/blob/master/appDemo2.gif)  -->
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
+<!-- GIF created with [LiceCap](http://www.cockos.com/licecap/). -->
 # PART 1
 
 Time spent: **6** hours spent in total
@@ -63,13 +62,13 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
+<!-- ## Video Walkthrough  -->
 
-Here's a walkthrough of implemented user stories:
+<!-- Here's a walkthrough of implemented user stories:  -->
 
-![](https://github.com/hmanalai/Instapost/blob/master/appDemo.gif)
+<!-- ![](https://github.com/hmanalai/Instapost/blob/master/appDemo.gif)  -->
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<!-- GIF created with [LiceCap](http://www.cockos.com/licecap/). -->
 
 
 ## Open-source libraries used
@@ -79,7 +78,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [THY(MOLENA) HOANG-XUAN NGUYEN]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
