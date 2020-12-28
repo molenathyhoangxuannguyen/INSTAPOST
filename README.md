@@ -1,8 +1,8 @@
-# PART 2
+# PART 1
 
-## Project 3 - *Instapost*
+## Project 3 - *Instagram Post*
 
-**Instapost** is a photo sharing app similar to Instagram but using Parse as its backend.
+**Instagram Post** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 Time spent: **6** hours spent in total
 
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 <!-- ![](https://github.com/hmanalai/Instapost/blob/master/appDemo2.gif)  -->
 
 <!-- GIF created with [LiceCap](http://www.cockos.com/licecap/). -->
-# PART 1
+# PART 2
 
 Time spent: **6** hours spent in total
 
